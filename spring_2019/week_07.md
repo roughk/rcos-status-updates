@@ -4,6 +4,7 @@ The MVP for this project is a mechanism to register/add or drop classes
 
 ## This Week's Plan
 Look into running an emulator to allow debugging of code on computer rather than having to test it on another member's phone.
+Go to turner and set up a usb drive to run Linux
 
 ## Anything Blocking?
 WSL and VMWare and really messed up my computer's ip address.
